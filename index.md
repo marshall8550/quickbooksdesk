@@ -31,7 +31,7 @@ This step is critical if you're attempting to **install QuickBooks already purch
 
 Once you locate your product in the account dashboard, click the corresponding download button. The installer will begin downloading to your computer. This is how you complete the **download QuickBooks already purchased online** process.
 
-Depending on your internet speed, the download may take a few minutes.
+[Depending on your internet speed, the download may take a few minutes.](https://quickbooksdesk.readthedocs.io/)
 
 
 
@@ -78,7 +78,6 @@ This is the most efficient way to **install already purchased desktop QuickBooks
 
 - Check your email for the original purchase confirmation.
 - Log into your Intuit account to retrieve license information.
-- Contact Intuit support if your purchase was made through a third party and you're unable to locate your credentials.
 
 ### Getting Installation Errors?
 
